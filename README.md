@@ -1,6 +1,6 @@
 # Otya
 
-Otya is a media-first product by PeterSmart Link. This repository is the public hub for information and automation that is safe to expose publicly.
+Otya is a connected product ecosystem operated by Otya Hold Ltd. This public repository is OtyaHub: the developer and partner entry point for public documentation, safe examples, product guidance and integration information. It is not an administrative console or a source of private operational data.
 
 ## Public surfaces
 
@@ -53,7 +53,13 @@ If Otya's application or server repositories become private later, this reposito
 
 - **Otya** — product
 - **Next** — Otya assistant
-- **PeterSmart Link** — company/operator
+- **Otya Hold Ltd** — company/operator
+- **Otya OS** — connected ecosystem and unified operating model
+- **Otya Server** — shared backend, identity/API governance and central integrations
+- **OmniPoint** — the operator's own shop and agency operations in Uganda
+- **Otya Media** — offline-first media player
+- **Next** — private owner intelligence assistant
+- **OtyaHub** — public developer/partner hub
 
 Legacy all-caps `OTYA` identifiers may remain in compatibility-sensitive code or historical records, but public product copy should use **Otya**.
 
