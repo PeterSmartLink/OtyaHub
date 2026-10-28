@@ -2,6 +2,9 @@
 
 **OtyaHub is the public developer and partner hub for the Otya family**, operated by Otya Hold Ltd. It publishes safe developer resources, product information, release notes and community guidance.
 
+- [Otya family brand guidelines](BRAND_GUIDELINES.md)
+- [Otya brand mark](assets/branding/otya-mark.svg) · [Otya wordmark](assets/branding/otya-wordmark.svg)
+
 ## Public surfaces
 
 - Product: https://petersmartlink.com
