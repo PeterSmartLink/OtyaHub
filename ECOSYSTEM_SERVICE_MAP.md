@@ -4,7 +4,7 @@ This page describes the intended roles of Otya products for developers, partners
 
 ## One connected ecosystem
 
-Otya Hold Ltd operates a connected family of products. Each service has a clear responsibility; shared identity or navigation does not mean every product shares all data.
+Otya Hold Ltd operates a connected family of products. The operating business and shop identity is **Otya Hold Ltd T/A OtyaPoint**. “OmniPoint” is a legacy identifier in older repositories/resources only, not the current trading identity. Each service has a clear responsibility; shared identity or navigation does not mean every product shares all data.
 
 | Product/service | Public purpose | Integration principle |
 |---|---|---|
