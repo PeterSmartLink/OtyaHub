@@ -1,6 +1,6 @@
-# Otya
+# OtyaHub
 
-Otya is a media-first product by PeterSmart Link. This repository is the public hub for information and automation that is safe to expose publicly.
+**OtyaHub** is the public developer and partner entry point for **Otya OS**, operated by **Otya Hold Ltd**. It publishes public documentation, safe examples, product guidance, and integration information—not private operations or administrative controls.
 
 ## Public surfaces
 
@@ -26,6 +26,7 @@ Otya is a media-first product by PeterSmart Link. This repository is the public 
 - [Public automation policy](PUBLIC_AUTOMATION.md)
 - [Developer and communication channels](DEVELOPER_CHANNELS.md)
 - [Public Postman collection](postman/Otya-public.postman_collection.json)
+- [Otya platform service blueprint and pricing](platform/SERVICE_BLUEPRINT_AND_PRICING_V1.md)
 - [Security and vulnerability reporting](SECURITY.md)
 
 ## What belongs here
