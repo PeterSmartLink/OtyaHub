@@ -54,9 +54,9 @@ If Otya's application or server repositories become private later, this reposito
 - **Otya Hold Ltd** — legal company/operator
 - **Otya OS** — connected ecosystem and unified operating model
 - **Otya Server** — shared control plane, identity/API governance and central integrations
-- **Next** — private owner assistant; owner-only access
-- **OmniPoint** — Otya Hold Ltd's shop and agency operations in Uganda
-- **Otya Media** — offline-first media player (the existing OtyaPlayer repository/app identifiers may remain during a controlled rename)
+- **Otya Next (Leo)** — private owner assistant; owner-only access
+- **OtyaPoint** — shop and agency application for Otya Hold Ltd; legal/trading wording remains **Otya Hold Ltd T/A OmniPoint** until formally changed
+- **Otya Media** — offline-first media player (existing repository/app identifiers may remain during a controlled rename)
 - **OtyaHub** — public developer/partner hub
 
 Legacy all-caps `OTYA` identifiers may remain in compatibility-sensitive code or historical records, but public product copy should use **Otya**.
